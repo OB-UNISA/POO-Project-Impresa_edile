@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cliente"},{"l":"entelocale"},{"l":"exceptions"},{"l":"fornitore"},{"l":"impresa"},{"l":"interazioni.esterno.collaudo"},{"l":"interfacce"},{"l":"interfacciagrafica"},{"l":"personale"},{"l":"report"},{"l":"testers"},{"l":"utilità"}]
